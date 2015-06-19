@@ -1,0 +1,2 @@
+# tp_uploadify
+批量上传uploadify封装在thinkphp，并且添加缩略图和删除功能
